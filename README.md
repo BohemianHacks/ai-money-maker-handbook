@@ -1,89 +1,92 @@
 # ai-money-maker
 
-## 贡献方式
+## Contribution method
 
-欢迎大家贡献关于使用AI赚钱的案例，包括文章、网站、博客、推文等。
+Everyone is welcome to contribute cases about using AI to make money, including articles, websites, blogs, tweets, etc.
 
-## AI副业赚钱资讯合集
+## AI sideline money-making information collection
 
-这是一个关于AI副业赚钱方法、工具和平台的合集，希望帮助大家在AI时代利用智能技术赚取工作之余的额外收入。
+This is a collection of AI sideline money-making methods, tools and platforms, hoping to help everyone use intelligent technology to earn extra income after work in the AI ​​era.
 
-## 如何开始副业最稳妥
+## How to start a sideline most safely
 
-### 四条建议
-- **做内容搞流量**：通过搞流量找到需要产品的用户，与别人合作促成交易。
-- **卖铲子而非挖金子**：挖金子风险大，卖工具更容易。
-- **不想花钱就花时间**：通过时间不断试错找到赚钱的方法。
-- **做资产而不是卖时间**：积累可以持续收益的资产，而不是一次性卖时间。
+### Four suggestions
+- **Create content and traffic**: Find users who need products through traffic, and cooperate with others to facilitate transactions.
 
-### 一条策略
-自媒体流量是当下用AI做副业的最亲民路径。
+- **Sell shovels instead of digging gold**: Digging gold is risky, and selling tools is easier.
 
-## 常用资源清单
+- **If you don’t want to spend money, spend time**: Find ways to make money through trial and error over time.
 
-🌍 [跨境出海技术栈](https://github.com/XiaomingX/indie-hacker-tools-plus)
+- **Create assets instead of selling time**: Accumulate assets that can generate sustainable returns instead of selling time all at once.
 
-🤖 [AI搞钱原则手册](https://github.com/XiaomingX/ai-money-maker-handbook)
+### One strategy
+We-media traffic is the most people-friendly path to using AI as a sideline at present.
 
-🛠️ [构建你自己的X](https://github.com/XiaomingX/build-your-own-xxx)
+## Common resource list
 
-📋 [1000个中国独立开发者项目](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
+🌍 [Cross-border technology stack](https://github.com/XiaomingX/indie-hacker-tools-plus)
 
-## AI技术赚钱思路分享
+🤖 [AI money-making principle manual](https://github.com/XiaomingX/ai-money-maker-handbook)
 
-### 技术赚钱的一些认知
-- **做垂类而非平台**：聚焦特定领域，比做一个通用平台更容易脱颖而出。
-- **顺应人性**：做顺应人性的事情，如小说创作，而非逆人性的教育内容。
-- **从小切入**：从最小的需求切入，如先做Midjourney的API服务。
-- **开源赚流量**：开源可以为你带来更多资源和公共认同。
-- **做国外市场**：国外市场付费能力更强，审核限制较少。
-- **赚有钱人的钱**：有钱人和想赚钱的人付费意愿更高。
-- **目标明确**：了解用户、功能、卖点、用户聚集地后，推广会变得简单。
+🛠️ [Build your own X](https://github.com/XiaomingX/build-your-own-xxx)
 
-### 已验证的技术赚钱方案
-1. **套壳站**：如GPT套壳站，制作站点并出售私有化部署。
-2. **API聚合**：聚合各类AI API，帮助开发者快速调用。
-3. **发卡站**：自动售卖AI账号，简化交易流程。
-4. **聚焦AI工具**：针对特定需求的AI工具，如AI写论文。
-5. **模型训练**：为客户做AI模型训练，但效果要求较高。
+📋 [1000 Chinese independent developer projects](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
 
-## AI自媒体赚钱思路分享
+## AI technology money-making ideas sharing
 
-### ai脚本视频赚钱
-- **图片绘本故事**：用AI制作故事，发布吸引流量。
-- **虚拟人口播**：使用AI生成虚拟人进行口播视频。
-- **小说漫画推文**：将小说转为漫画，通过AI实现内容创作。
-- **电影剧情解说**：用AI生成电影解说视频，快速制作内容。
+### Some cognition of technology money-making
+- **Be a vertical category rather than a platform**: Focusing on a specific field is easier to stand out than being a general platform.
+- **Conform to human nature**: Do things that conform to human nature, such as novel writing, rather than educational content that goes against human nature.
+- **Start small**: Start with the smallest demand, such as starting with Midjourney's API service.
+- **Open source to earn traffic**: Open source can bring you more resources and public recognition.
+- **Do foreign markets**: Foreign markets have stronger payment capabilities and fewer audit restrictions.
+- **Make money from rich people**: Rich people and those who want to make money are more willing to pay.
+- **Clear goals**: After understanding users, functions, selling points, and user gathering places, promotion will become simple.
 
-### 视频变幻赚钱
-- **瞬息全宇宙**：制作炫酷转场动画视频，吸引观众。
-- **热舞小姐姐**：通过动效制作增加内容吸引力。
-- **无限穿越放大&缩小景别**：制作视觉效果独特的视频内容。
+### Verified technology money-making solutions
+1. **Shell site**: Such as GPT shell site, making sites and selling private deployment.
+2. **API aggregation**: Aggregate various AI APIs to help developers quickly call.
+3. **Card issuing station**: Automatically sell AI accounts and simplify transaction processes.
+4. **Focus on AI tools**: AI tools for specific needs, such as AI writing papers.
+5. **Model training**: Do AI model training for customers, but the effect requirements are high.
 
-### 视频翻译&搬运
-- **视频搬运**：使用AI工具翻译和搬运国外视频，扩大受众。
+## Sharing of AI self-media money-making ideas
 
-### AI图片赚钱副业
-- **个人头像**：用AI生成个性化头像，进行售卖。
-- **桌面壁纸**：制作壁纸图片并进行多渠道变现。
-- **模特换装**：通过AI生成不同的模特换装效果。
-- **商品广告**：制作商品广告图片，降低营销成本。
-- **儿童绘本**：制作AI绘制的儿童绘本，满足家庭需求。
-- **表情包**：批量生成表情包，获取被动收入。
-- **家具&装修**：生成家装效果图，方便客户选择。
-- **LOGO制作**：快速生成品牌LOGO，服务商家需求。
-- **照片修复**：用AI修复老照片，提供个性化服务。
+### Making money with ai script videos
+- **Picture picture book stories**: Use AI to create stories and publish to attract traffic.
+- **Virtual people broadcasting**: Use AI to generate virtual people to broadcast videos.
+- **Novel and comics tweets**: Convert novels into comics and realize content creation through AI.
+- **Movie plot explanation**: Use AI to generate movie explanation videos and quickly create content.
 
-### AI文案赚钱副业
-- **新媒体推文**：用AI生成新媒体文案，提高创作效率。
-- **AI论文代写**：为学术写作提供润色和辅助撰写。
-- **AI小说编剧**：用AI生成剧本，提升内容创作质量。
-- **AI简历改写**：用AI生成竞争力强的简历，帮助求职。
+### Making money with video transformation
+- **Instantaneous universe**: Make cool transition animation videos to attract audiences.
+- **Hot dancing lady**: Increase the attractiveness of content through dynamic effect production.
+- **Infinite crossing zoom in & zoom out**: Make video content with unique visual effects.
 
-### AI音频赚钱副业
-- **AI声音克隆**：用AI克隆声音，制作个性化音频内容。
-- **AI音乐**：用AI生成音乐，提供免版权音乐创作。
+### Video translation & transfer
+- **Video transfer**: Use AI tools to translate and transfer foreign videos to expand the audience.
 
-### AI直播
-- **无人货架直播**：利用AI进行无人直播，减少人工成本。
-- **虚拟人直播**：生成虚拟人形象进行直播，增加内容趣味性。
+### AI picture money-making sideline
+- **Personal avatar**: Use AI to generate personalized avatars and sell them.
+- **Desktop wallpaper**: Make wallpaper pictures and realize multi-channel monetization.
+- **Model Dress-up**: Generate different model dress-up effects through AI.
+- **Product Advertising**: Create product advertising pictures to reduce marketing costs.
+- **Children's Picture Books**: Create children's picture books drawn by AI to meet family needs.
+- **Emoji Pack**: Generate emoji packs in batches to obtain passive income.
+- **Furniture & Decoration**: Generate home decoration renderings to facilitate customer selection.
+- **LOGO Production**: Quickly generate brand LOGO to serve merchant needs.
+- **Photo Restoration**: Use AI to repair old photos and provide personalized services.
+
+### AI copywriting makes money sideline
+- **New Media Tweets**: Use AI to generate new media copywriting to improve creative efficiency.
+- **AI Paper Writing**: Provide polishing and auxiliary writing for academic writing.
+- **AI Novel Screenwriter**: Use AI to generate scripts to improve the quality of content creation.
+- **AI Resume Rewriting**: Use AI to generate competitive resumes to help job hunting.
+
+### AI Audio Makes Money Sideline
+- **AI Voice Cloning**: Use AI to clone voices and create personalized audio content.
+- **AI Music**: Generate music with AI and provide copyright-free music creation.
+
+### AI Live
+- **Unmanned Shelf Live**: Use AI for unmanned live broadcast to reduce labor costs.
+- **Virtual Human Live**: Generate virtual human images for live broadcast to increase the fun of content.
